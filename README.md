@@ -1,7 +1,8 @@
 # Hi there, I'm Lakpriya Senevirathna 👋
 
 ## 🚀 About Me
-Experienced Software Engineer with a demonstrated history of working in the computer software industry.
+- Entrepreneur 
+- Software Engineer
 
 ## 🎓 Education
 - BSc (Hons) in Statistics and Operations research

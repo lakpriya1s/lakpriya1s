@@ -51,3 +51,5 @@
 [![Facebook](https://img.shields.io/badge/Facebook-161C24?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/lakpriya.senevirathna)
 [![TikTok](https://img.shields.io/badge/TikTok-161C24?style=for-the-badge&logo=tiktok&logoColor=000000)](https://www.tiktok.com/@lakpriya1)
 [![YouTube](https://img.shields.io/badge/YouTube-161C24?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/lakpriya)
+[![Email](https://img.shields.io/badge/Email-161C24?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:lakpriya@codescale.lk)
+

@@ -4,7 +4,8 @@
 Experienced Software Engineer with a demonstrated history of working in the computer software industry.
 
 ## 🎓 Education
-Bachelor of Science (Hons) in Statistics and Operations research.
+- BSc (Hons) in Statistics and Operations research
+- MSc in Advance Software Engineering [Reading]
 
 ## 🛠️ Technologies & Tools
 ### **Front-End:**

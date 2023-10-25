@@ -44,7 +44,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 🎉 Achievements
-- Crossed the 2500 reputation milestone on StackOverflow, with 37 answers and 15 questions, reaching 1.9M, with 2 gold, 19 silver badges and 38 bronze badges
+- Crossed the 2,500 reputation milestone on StackOverflow with contributions including 47 answers and 22 questions, reaching over 1.9M people. Earned accolades of 2 gold, 19 silver, and 38 bronze badges.
 
 ## 📬 Get in Touch
 

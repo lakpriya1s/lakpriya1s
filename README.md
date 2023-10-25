@@ -28,8 +28,8 @@
 
 ### **Mobile Development:** 
 
-![Native Android (Java)](https://img.shields.io/badge/Native_Android_(Java)-161C24?style=for-the-badge&logo=android&logoColor=3DDC84) 
 ![React-Native](https://img.shields.io/badge/React_Native-161C24?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Native Android (Java)](https://img.shields.io/badge/Native_Android_(Java)-161C24?style=for-the-badge&logo=android&logoColor=3DDC84) 
 
 ### **Web Services:**
 

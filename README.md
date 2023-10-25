@@ -46,10 +46,10 @@
 
 ## 📬 Get in Touch
 
+[![Email](https://img.shields.io/badge/Email-161C24?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:lakpriya@codescale.lk)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-161C24?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/lakpriyasenevirathna)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-161C24?style=for-the-badge&logo=stack-overflow&logoColor=F58025)](https://stackoverflow.com/users/9708440)
 [![Facebook](https://img.shields.io/badge/Facebook-161C24?style=for-the-badge&logo=facebook&logoColor=1877F2)](https://www.facebook.com/lakpriya.senevirathna)
 [![TikTok](https://img.shields.io/badge/TikTok-161C24?style=for-the-badge&logo=tiktok&logoColor=000000)](https://www.tiktok.com/@lakpriya1)
 [![YouTube](https://img.shields.io/badge/YouTube-161C24?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/lakpriya)
-[![Email](https://img.shields.io/badge/Email-161C24?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:lakpriya@codescale.lk)
 

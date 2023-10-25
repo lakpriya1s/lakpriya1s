@@ -11,35 +11,37 @@
 ## 🛠️ Technologies & Tools
 ### **Front-End:**
 
-![React](https://img.shields.io/badge/React-161C24?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-161C24?style=for-the-badge&logo=next.js&logoColor=white) 
-![Redux](https://img.shields.io/badge/Redux-161C24?style=for-the-badge&logo=redux&logoColor=764ABC) 
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-161C24?style=for-the-badge&logo=redux&logoColor=764ABC)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-161C24?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
-![MUI](https://img.shields.io/badge/MUI-161C24?style=for-the-badge&logo=material-ui&logoColor=0081CB)
-![TailwindCss](https://img.shields.io/badge/Tailwind_CSS-161C24?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
-![WordPress](https://img.shields.io/badge/WordPress-161C24?style=for-the-badge&logo=wordpress&logoColor=21759B)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-%23593d88?style=for-the-badge&logo=redux&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 
 ### **Back-End:** 
 
-![NodeJs](https://img.shields.io/badge/Node.js-161C24?style=for-the-badge&logo=node.js&logoColor=339933)
-![ExpressJs](https://img.shields.io/badge/Express.js-161C24?style=for-the-badge&logo=express&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-161C24?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### **Mobile Development:** 
 
-![React-Native](https://img.shields.io/badge/React_Native-161C24?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![Native Android (Java)](https://img.shields.io/badge/Native_Android_(Java)-161C24?style=for-the-badge&logo=android&logoColor=3DDC84) 
 
 ### **Web Services:**
 
-![AWS](https://img.shields.io/badge/AWS-161C24?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
-![Firebase](https://img.shields.io/badge/Firebase-161C24?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-161C24?style=for-the-badge&logo=google-cloud&logoColor=4285F4)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### **Design:**
 
-![Figma](https://img.shields.io/badge/Figma-161C24?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ## 🎉 Achievements
 - Crossed the 2500 reputation milestone on StackOverflow, with 37 answers and 15 questions, reaching 1.9M, with 2 gold, 19 silver badges and 38 bronze badges

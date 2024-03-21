@@ -45,6 +45,7 @@
 
 ## 🎉 Achievements
 - Crossed the 2,500 reputation milestone on StackOverflow with contributions including 47 answers and 22 questions, reaching over 1.9M people. Earned accolades of 2 gold, 19 silver, and 38 bronze badges.
+- Relased my own [NPM package](https://www.npmjs.com/package/react-native-sparkle-ai-chat) for react native that could bring AI chat assistant to react native apps!
 
 ## 📬 Get in Touch
 

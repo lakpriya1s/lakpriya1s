@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - Entrepreneur 
-- Software Engineer
+- Senior Software Engineer
 
 ## 🎓 Education
 - BSc (Hons) in Statistics and Operations research

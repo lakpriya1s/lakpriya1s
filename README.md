@@ -6,7 +6,7 @@
 
 ## 🎓 Education
 - BSc (Hons) in Statistics and Operations research
-- MSc in Advance Software Engineering [Reading]
+- MSc in Advanced Software Engineering
 
 ## 🛠️ Technologies & Tools
 ### **Front-End:**
